@@ -1,0 +1,6 @@
+anthropic
+openai
+pandas
+rich
+requests
+schwab-py

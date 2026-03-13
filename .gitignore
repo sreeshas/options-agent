@@ -1,0 +1,14 @@
+.env.local
+.env
+!.env.example
+
+.venv/
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+.DS_Store
+
+schwab_token.json
+*.token.json
